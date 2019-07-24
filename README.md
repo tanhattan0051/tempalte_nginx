@@ -1,1 +1,0 @@
-# tempalte_nginx
